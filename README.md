@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Boone</h1>
 <h3 align="center">A full-stack developer from CLE</h3>
 
-- 🔭 I’m currently working on [Parts Exchange](www.partsxg.com)
+- 🔭 I’m currently working on [Parts Exchange](https://www.partsxg.com)
 
 - 🌱 I’m currently learning **Astro & LlamaIndex**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **david@boonetek.com**
 
-- 📄 Know about my experiences [davidboonejr.com](davidboonejr.com)
+- 📄 Know about my experiences [davidboonejr.com](https://davidboonejr.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
