@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **learning more about developing Agentic AI apps**
 
-- 👨‍💻 All of my projects are available at [boonetek.com](boonetek.com)
+- 👨‍💻 All of my projects are available at [boonetek.com](https://boonetek.com)
 
 - 💬 Ask me about **typescript, react, self-hosting**
 
