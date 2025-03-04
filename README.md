@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Parts Exchange](https://www.partsxg.com)
 
-- 🌱 I’m currently learning **Astro & LlamaIndex**
+- 🌱 I’m currently learning **Python & LLMs**
 
-- 👯 I’m looking to collaborate on **Agentic AI that people will actually use**
+- 👯 I’m looking to collaborate on **AI apps that people will actually use**
 
-- 🤝 I’m looking for help with **learning more about developing Agentic AI apps**
+- 🤝 I’m looking for help with **learning more about developing AI Agents**
 
 - 👨‍💻 All of my projects are available at [boonetek.com](https://boonetek.com)
 
